@@ -82,7 +82,6 @@ nav {
   line-height: 58px;
   display: grid;
   grid-template-columns: 1fr;
-  background-color: #C4C4C4;
 }
 
 .change {
